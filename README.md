@@ -60,24 +60,24 @@ Or open the project in VS Code and run `Main.java`.
 
 ## Individual Contributions
 
-### Aashiqa
+### Aashiqa 23da2-1030
 - Implemented Array operations
 - Implemented Linear Search
 - Implemented Binary Search
 - Integrated modules into the main application
 - Performed final testing
 
-### Shimla
+### Shimla 23da2-0940
 - Implemented Stack operations
 - Implemented Queue operations
 - Tested empty/full conditions
 
-### Thizan
+### Thizan 23da2-0980
 - Implemented Linked List operations
 - Implemented performance comparison
 - Added complexity information
 
-### Suaath
+### Suaath 23da2-1059
 - Implemented Graph representation
 - Implemented vertex and edge operations
 - Implemented BFS
