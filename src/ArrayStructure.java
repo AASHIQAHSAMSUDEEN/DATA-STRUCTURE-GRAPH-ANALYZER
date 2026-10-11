@@ -1,4 +1,4 @@
-package src;
+
 public class ArrayStructure {
 
     private int[] data;
